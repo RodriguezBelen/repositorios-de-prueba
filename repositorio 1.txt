@@ -1,0 +1,8 @@
+¡Hola mundo!
+
+Clone la carpeta 'Aula 11' de la profe Soledad
+
+Creé una carpeta aparte llamada 'repositorios de prueba'
+
+Voy a subirla en modo público, para poder prácticar la sincronización con Github y commits
+04-08-22:20
